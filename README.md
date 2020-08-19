@@ -1,1 +1,1 @@
-# soccer_academy_manager
+# soccer_academy
